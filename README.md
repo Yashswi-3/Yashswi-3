@@ -1,65 +1,77 @@
-<h1 align="center">👋 Hey, I'm Yashswi Shukla!</h1>
-<p align="center">
-🚀 AI Enthusiast | 🤖 Machine Learning & NLP | 💡 Problem Solver  
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashswi-shukla.yashswi-shukla" />
 
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yashswi+Shukla!;" />
+</h1>
 
-### 🎯 **About Me**  
-I'm a 3rd-year **Artificial Intelligence** student at **Bennett University**, passionate about building intelligent systems that solve real-world challenges. From **deep learning models** to **full-stack applications**, I love experimenting with AI and software development.
+<h3 align="center">A passionate AI & Software Developer from India 🇮🇳</h3>
 
-🛠 **What I Do:**  
-- 🤖 **AI & Machine Learning** – Deep Learning (TensorFlow, PyTorch), NLP, Computer Vision  
-- 🌍 **Web & Full-Stack Development** – React, Node.js, MongoDB, Express  
-- 🎯 **Problem Solving & Competitive Coding** – C++, Python, Java  
-- 📊 **Data Science & Analytics** – NumPy, Pandas, Scikit-learn  
+<br/>
 
----
+<div align="center">
+ 
+ 🔭 I’m currently working on **Suraksha Dristi - AI-powered women's safety system**
+ 
+ 🌱 I’m currently learning **Deep Learning, Computer Vision, and MLOps**
 
-### 🔥 **Current Projects & Research**  
-🚀 **Suraksha Dristi** – AI-based women's safety system using real-time video analysis  
-🖐 **Hand Gesture Recognition** – Recognizing sign language with CNNs  
-📊 **RevLift** – AI-powered sentiment analysis for product feedback (Google Cloud AI Hackathon)  
-🔬 **Low-Light Face Detection** – Analyzing noise effects & improving detection accuracy  
+💬 Ask me about **AI, Python, Computer Vision, NLP... or anything [here](https://github.com/yashswi-shukla/yashswi-shukla/issues)**
 
-📌 **Explore More:** [Check out my repositories](https://github.com/Yashswi-3?tab=repositories)  
+⚡ Fun fact **The first AI program, called the Logic Theorist, was created in 1955!**
 
----
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:yashswi.shukla@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/yashswi-shukla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://yashswi-shukla.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-### 💻 **Tech Stack**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,flask,mongodb,mysql,git,github,vscode,linux" /><br>
+</div>
 
----
+<br/>
+<hr/>
 
-### 📊 **GitHub Stats**  
-![Yashswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashswi-3&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashswi-3&layout=compact&theme=radical)  
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashswi-shukla/yashswi-shukla/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-🐍 **GitHub Contributions Snake:**  
-![Snake Animation](https://github.com/Yashswi-3/Yashswi-3/blob/output/github-contribution-grid-snake.svg)  
+<hr/>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=yashswi-shukla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=yashswi-shukla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashswi-shukla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### 📫 **Let's Connect**  
-📩 Email: yashswishukla@gmail.com  
-💼 LinkedIn: [linkedin.com/in/yashswi-shukla](https://www.linkedin.com/in/yashswi-shukla)  
-🌐 Portfolio: [Coming Soon]  
+<br/><br/>
 
----
+<hr/>
 
-### 🌟 **Fun Facts**  
-🏎️ I solve AI problems faster than you can say "Backpropagation"!  
-🔍 I enjoy debugging models as much as solving puzzles.  
-🍕 AI, coding, and a good pizza? Perfect combo!  
+<br/>
 
----
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-**🚀 Always learning, always building!**  
+<br/>
+
