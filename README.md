@@ -9,15 +9,15 @@
 ---
 
 ### 🏆 About Me  
-Hey there! I’m **Yashswi Shukla**, a passionate **AI & Software Developer** from India, diving deep into the realms of **Machine Learning, Computer Vision, and Web Development**. Currently pursuing my **B.Tech in Computer Science and Engineering** at Bennett University (CGPA: 8.78), I thrive on solving real-world problems with code and creativity.
+Hi, I’m **Yashswi Shukla**, an AI enthusiast and Software Developer from India, currently pursuing **B.Tech in Computer Science and Engineering** at Bennett University (CGPA: 8.78). I thrive on solving real-world challenges with **AI, Machine Learning**, and **Web Development**. My passion lies in transforming complex problems into innovative solutions through code and creativity.
 
-🔍 **Experience Highlights:**  
-- **Vice Chairperson, IEEE WIE (2024)** — Orchestrated major events like *First-Year Apocalypse, Freshers Orientation,* and *Internship Workshops*, honing my leadership and public speaking prowess.  
-- **PR & Management Core, IEEE WIE (2022-2023)** — Mastered the art of event coordination and marketing, consistently meeting tight deadlines while driving successful outcomes.
+💡 **Motto:** "There is no free lunch in the world." I’m driven by the belief that continuous learning and exploration of new technologies are key to personal and professional growth.
 
-💡 I live by the mantra **“There is no free lunch in the world,”** which fuels my commitment to continuous learning and exploring new technologies. I’m particularly fascinated by AI’s potential to transform everyday experiences and drive positive change.
-
-🌟 **Let’s Connect!** I’m actively seeking internship opportunities to apply my skills and contribute to innovative projects. Let’s build something amazing together!
+### 🔭 I’m currently working on the following AI-powered projects:
+- **Suraksha Dristi** – An AI-powered women’s safety system using OpenCV and TensorFlow to detect distress gestures in real-time video feeds.  
+- **Narrative** – A Reddit data scraping and NLP-based project, leveraging SpaCy to extract and summarize topic-specific insights.  
+- **Pothole Detection System** – An ongoing computer vision project analyzing road conditions from video footage to identify damages.  
+- **Chatbot Development** – Experience in integrating OpenAI APIs and exploring Generative AI models for conversational AI applications.
 
 ---
 
