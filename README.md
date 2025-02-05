@@ -38,28 +38,19 @@ Hey there! I’m **Yashswi Shukla**, a passionate **AI & Software Developer** fr
 
 ### ⚡ Tech Stack  
 <div align="center">
-    <!-- Programming Languages -->
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,sql" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
     <br>
-    <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
-    <br>
-    <!-- Libraries & Tools -->
-    <img src="https://skillicons.dev/icons?i=tensorflow,keras,numpy,pandas,mongodb,mysql" />
-    <br>
-    <!-- Other Tools -->
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode" />
 </div>
-
 
 ---
 
 ### 🏆 GitHub Stats  
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yashswi-3&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
+    <br>     <br>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Yashswi-3&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
+    <br>    <br>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashswi-3&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
@@ -74,9 +65,10 @@ Hey there! I’m **Yashswi Shukla**, a passionate **AI & Software Developer** fr
 ---
 
 ### 🚀 Let's Build Something Awesome!  
-📌 **Open to Internship & Collaboration Opportunities**  
-📩 Reach out: **yashswishukla@gmail.com**  
-🌐 GitHub: **[Yashswi-3](https://github.com/Yashswi-3)**  
+📌 **Open to Internship & Collaboration Opportunities**  <br>
+📩 Reach out: **yashswishukla@gmail.com**  <br>
+🌐 GitHub: **[Yashswi-3](https://github.com/Yashswi-3)** <br> 
+🔗 LinkedIn: **[Yashswi-Shukla](https://www.linkedin.com/in/yashswi-shukla-8384ba252)**
 
 ---
 
