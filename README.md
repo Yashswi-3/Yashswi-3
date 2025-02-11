@@ -8,16 +8,27 @@
 
 ---
 
-### 🏆 About Me  
-Hi, I’m **Yashswi Shukla**, an AI enthusiast and Software Developer from India, currently pursuing **B.Tech in Computer Science and Engineering** at Bennett University (CGPA: 8.78). I thrive on solving real-world challenges with **AI, Machine Learning**, and **Web Development**. My passion lies in transforming complex problems into innovative solutions through code and creativity.
+# 🏆 About Me  
+Hi, I’m **Yashswi Shukla**, an **AI & ML Enthusiast, Data & Business Analyst in the making, and Problem Solver** from India.  
+I'm currently a **3rd-year B.Tech student in Computer Science & Engineering at Bennett University** (CGPA: **8.78**), passionate about transforming **data into insights** and **building AI-driven solutions** to solve real-world problems.  
 
-💡 **Motto:** "There is no free lunch in the world." I’m driven by the belief that continuous learning and exploration of new technologies are key to personal and professional growth.
+## 🚀 What I Do  
+- 📊 **Data Analysis & Visualization** – Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`), SQL, Tableau  
+- 🤖 **Machine Learning & NLP** – `Scikit-learn`, `TensorFlow`  
+- ☁️ **Big Data & Cloud** – `Hadoop`, `Apache Pig`, `MapReduce`  
 
-### 🔭 I’m currently working on the following AI-powered projects:
-- **Suraksha Dristi** – An AI-powered women’s safety system using OpenCV and TensorFlow to detect distress gestures in real-time video feeds.  
-- **Narrative** – A Reddit data scraping and NLP-based project, leveraging SpaCy to extract and summarize topic-specific insights.  
-- **Pothole Detection System** – An ongoing computer vision project analyzing road conditions from video footage to identify damages.  
-- **Chatbot Development** – Experience in integrating OpenAI APIs and exploring Generative AI models for conversational AI applications.
+> 💡 **Motto:** *"There is no free lunch in the world."*  
+> I believe in continuous learning, innovation, and leveraging AI to drive impactful solutions.  
+
+## 🔭 Projects I'm Working On  
+- 🔹 **Suraksha Dristi** – AI-powered women's safety system using `OpenCV` & `TensorFlow` to detect distress gestures in real-time video feeds.  
+- 🔹 **Narrative** – A **Reddit data scraping & NLP-based project**, leveraging `SpaCy` to extract and summarize topic-specific insights.  
+- 🔹 **Pothole Detection System** – A computer vision project analyzing road conditions to **identify damages** from video footage.  
+- 🔹 **AI-Powered Business Insights** – Developing **interactive dashboards** & NLP models for **data-driven decision-making**.  
+- 🔹 **Chatbot Development** – Experience in **OpenAI API integration** & exploring **Generative AI models** for conversational AI applications.  
+
+🔎 I’m always exploring new technologies, refining my skills, and working on projects that make a difference.  
+Let's connect and innovate together! 🚀  
 
 ---
 
