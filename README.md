@@ -15,7 +15,6 @@ I'm currently a **3rd-year B.Tech student in Computer Science & Engineering at B
 ## 🚀 What I Do  
 - 📊 **Data Analysis & Visualization** – Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`), SQL, Tableau  
 - 🤖 **Machine Learning & NLP** – `Scikit-learn`, `TensorFlow`  
-- ☁️ **Big Data & Cloud** – `Hadoop`, `Apache Pig`, `MapReduce`  
 
 > 💡 **Motto:** *"There is no free lunch in the world."*  
 > I believe in continuous learning, innovation, and leveraging AI to drive impactful solutions.  
