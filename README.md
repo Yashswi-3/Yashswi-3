@@ -101,7 +101,6 @@ type: vision system
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yashswi-3&theme=react&border_radius=10" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Yashswi-3&show_icons=true&theme=react&border_radius=10" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashswi-3&layout=compact&theme=react&border_radius=10" height="160"/>
 </p>
 
 ---
